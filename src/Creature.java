@@ -71,7 +71,7 @@ public class Creature {
         }
 
         if (fullness <= 6) {
-            status = "Oh. " + this.getName() + "is super hungry!\n";
+            status = "Oh, " + this.getName() + "is super hungry!\n";
 
         }
 
